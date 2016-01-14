@@ -36,7 +36,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="setp_option_six_second">16 giây</string>
   <string name="loop">"Lặp lại"</string>
   <string name="single">"Đơn"</string>
-  <string name="stereo">"Stereo"</string>
+  <string name="stereo">"Âm thanh nổi"</string>
   <string name="speaker_on">Loa ngoài BẬT</string>
   <string name="speaker_off">Loa ngoài TẮT</string>
   <string name="speaker_need_headset">Cắm tai nghe để dùng tính năng này.</string>
@@ -44,7 +44,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="input_url">"Nhập URL"</string>
   <string name="streaming_settings">"Cài đặt phát trực tuyến"</string>
   <string name="next">"Tiếp theo"</string>
-  <string name="previous">"Quay lại"</string>
+  <string name="previous">"Trước"</string>
   <string name="buffer_size">Kích cỡ bộ đệm</string>
   <string name="apn">APN ưu tiên</string>
   <string name="rtp_min_port">Cổng nhỏ nhất</string>
@@ -66,10 +66,10 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="bookmark_exist">"Dấu trang đã tồn tại"</string>
   <string name="bookmark_add_success">"Đã thêm dấu trang"</string>
   <string name="bookmark_list">"Dấu trang"</string>
-  <string name="bookmark_title">"Tên"</string>
+  <string name="bookmark_title">"Tiêu đề"</string>
   <string name="bookmark_location">"Vị trí"</string>
   <string name="delete_all">"Xoá tất cả"</string>
-  <string name="default_title">"Tên mặc định"</string>
+  <string name="default_title">"Tiêu đề mặc định"</string>
   <string name="more_image">Nhiều ảnh hơn</string>
   <string name="mute_nosupport">Không thể ngắt tiếng: video không hỗ trợ</string>
   <string name="map_activity_not_found_err">Không có ứng dụng bản đồ để hiện vị trí.</string>
@@ -79,4 +79,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="headset_plug">Cắm tai nghe cho những hiệu ứng này.</string>
   <string name="audio_effects_dialog_title">Snapdragon Audio+</string>
   <string name="fail_trim">Xin lỗi, không thể cắt video này</string>
+  <string name="no_permission_for_drm">Rất tiếc, không thể chia sẻ tập tin được bảo vệ DRM</string>
+  <string name="drm_license_info">Thông tin giấy phép DRM</string>
 </resources>

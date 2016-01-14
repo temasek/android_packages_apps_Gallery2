@@ -47,8 +47,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="previous">"Anterior"</string>
   <string name="buffer_size">Tamaño de memoria intermedia</string>
   <string name="apn">APN preferido</string>
-  <string name="rtp_min_port">Puerto inferior</string>
-  <string name="rtp_max_port">Puerto superior</string>
+  <string name="rtp_min_port">Puerto mínimo</string>
+  <string name="rtp_max_port">Puerto máximo</string>
   <string name="set_rtp_min_port">Establecer puerto inferior</string>
   <string name="set_rtp_max_port">Establecer puerto superior</string>
   <string name="set_buffer_size">Establecer tamaño de memoria intermedia</string>
@@ -60,7 +60,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <string name="media_controller_live">En directo</string>
   <string name="media_controller_playing">Reproduciendo</string>
   <string name="media_controller_connecting">Conectando\u2026</string>
-  <string name="bookmark_add">"Agregar marcador"</string>
+  <string name="bookmark_add">"Añadir marcador"</string>
   <string name="bookmark_display">"Mostrar marcadores"</string>
   <string name="bookmark_empty">"No hay marcadores"</string>
   <string name="bookmark_exist">"Este marcador ya existe"</string>
